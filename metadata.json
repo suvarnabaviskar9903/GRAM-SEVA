@@ -1,0 +1,6 @@
+{
+  "name": "Gram Seva – Smart Village Complaint Management System",
+  "description": "Your Village, Your Voice, Our Responsibility. Bilingual (English & Marathi) smart village complaint management platform for Gram Panchayats.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
